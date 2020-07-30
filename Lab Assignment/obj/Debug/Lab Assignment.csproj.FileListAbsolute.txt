@@ -1,0 +1,7 @@
+C:\Users\Rifat\source\repos\Lab Assignment\bin\Debug\Lab Assignment.exe.config
+C:\Users\Rifat\source\repos\Lab Assignment\bin\Debug\Lab Assignment.exe
+C:\Users\Rifat\source\repos\Lab Assignment\bin\Debug\Lab Assignment.pdb
+C:\Users\Rifat\source\repos\Lab Assignment\obj\Debug\Lab Assignment.csprojAssemblyReference.cache
+C:\Users\Rifat\source\repos\Lab Assignment\obj\Debug\Lab Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Rifat\source\repos\Lab Assignment\obj\Debug\Lab Assignment.exe
+C:\Users\Rifat\source\repos\Lab Assignment\obj\Debug\Lab Assignment.pdb
