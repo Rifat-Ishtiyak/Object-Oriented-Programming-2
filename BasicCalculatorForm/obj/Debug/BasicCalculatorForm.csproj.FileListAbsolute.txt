@@ -1,0 +1,10 @@
+C:\Users\Rifat\source\repos\BasicCalculatorForm\bin\Debug\BasicCalculatorForm.exe.config
+C:\Users\Rifat\source\repos\BasicCalculatorForm\bin\Debug\BasicCalculatorForm.exe
+C:\Users\Rifat\source\repos\BasicCalculatorForm\bin\Debug\BasicCalculatorForm.pdb
+C:\Users\Rifat\source\repos\BasicCalculatorForm\obj\Debug\BasicCalculatorForm.csprojAssemblyReference.cache
+C:\Users\Rifat\source\repos\BasicCalculatorForm\obj\Debug\BasicCalculatorForm.Form1.resources
+C:\Users\Rifat\source\repos\BasicCalculatorForm\obj\Debug\BasicCalculatorForm.Properties.Resources.resources
+C:\Users\Rifat\source\repos\BasicCalculatorForm\obj\Debug\BasicCalculatorForm.csproj.GenerateResource.cache
+C:\Users\Rifat\source\repos\BasicCalculatorForm\obj\Debug\BasicCalculatorForm.csproj.CoreCompileInputs.cache
+C:\Users\Rifat\source\repos\BasicCalculatorForm\obj\Debug\BasicCalculatorForm.exe
+C:\Users\Rifat\source\repos\BasicCalculatorForm\obj\Debug\BasicCalculatorForm.pdb

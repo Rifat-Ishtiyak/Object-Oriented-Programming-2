@@ -1,0 +1,7 @@
+C:\Users\Rifat\source\repos\Box Value\bin\Debug\Box Value.exe.config
+C:\Users\Rifat\source\repos\Box Value\bin\Debug\Box Value.exe
+C:\Users\Rifat\source\repos\Box Value\bin\Debug\Box Value.pdb
+C:\Users\Rifat\source\repos\Box Value\obj\Debug\Box Value.csprojAssemblyReference.cache
+C:\Users\Rifat\source\repos\Box Value\obj\Debug\Box Value.csproj.CoreCompileInputs.cache
+C:\Users\Rifat\source\repos\Box Value\obj\Debug\Box Value.exe
+C:\Users\Rifat\source\repos\Box Value\obj\Debug\Box Value.pdb
