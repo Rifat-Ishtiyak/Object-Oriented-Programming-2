@@ -1,0 +1,14 @@
+C:\Users\Rifat\source\repos\DigitalDiary\obj\Debug\DigitalDiary.csprojAssemblyReference.cache
+C:\Users\Rifat\source\repos\DigitalDiary\obj\Debug\DigitalDiary.Design.AddNote.resources
+C:\Users\Rifat\source\repos\DigitalDiary\obj\Debug\DigitalDiary.Properties.Resources.resources
+C:\Users\Rifat\source\repos\DigitalDiary\obj\Debug\DigitalDiary.csproj.GenerateResource.cache
+C:\Users\Rifat\source\repos\DigitalDiary\obj\Debug\DigitalDiary.csproj.CoreCompileInputs.cache
+C:\Users\Rifat\source\repos\DigitalDiary\bin\Debug\DigitalDiary.exe.config
+C:\Users\Rifat\source\repos\DigitalDiary\bin\Debug\DigitalDiary.exe
+C:\Users\Rifat\source\repos\DigitalDiary\bin\Debug\DigitalDiary.pdb
+C:\Users\Rifat\source\repos\DigitalDiary\obj\Debug\DigitalDiary.exe
+C:\Users\Rifat\source\repos\DigitalDiary\obj\Debug\DigitalDiary.pdb
+C:\Users\Rifat\source\repos\DigitalDiary\obj\Debug\DigitalDiary.Design.PersonMenu.resources
+C:\Users\Rifat\source\repos\DigitalDiary\obj\Debug\DigitalDiary.Design.AllNote.resources
+C:\Users\Rifat\source\repos\DigitalDiary\obj\Debug\DigitalDiary.Design.LogIn.resources
+C:\Users\Rifat\source\repos\DigitalDiary\obj\Debug\DigitalDiary.Design.Show.resources
